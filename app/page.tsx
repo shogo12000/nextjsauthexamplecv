@@ -1,4 +1,4 @@
-import Image from "next/image";
+ 
 import SignIn from "./components/oathGoogle";
 
 export default function Home() {
